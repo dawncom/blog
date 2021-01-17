@@ -17,10 +17,10 @@ appid = "appid"
 secret = "secret"
 
 [database]
-host = "127.0.0.1"
+host = "81.70.76.106"
 port = 3306
 user = "root"
-passwd = "root"
+passwd = "Wodetian666"
 dbname = "blog"
 params = "charset=utf8&parseTime=true"
 
